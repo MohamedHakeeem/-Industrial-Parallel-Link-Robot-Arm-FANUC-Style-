@@ -4,6 +4,15 @@ This project features a high-precision industrial robot arm designed using SOLID
 
 Key Focus: Mechanical integrity, motion synchronization, and industrial-grade power transmission.
 
+📸 3D_Visuals
+
+
+<img width="1920" height="1080" alt="Untitled Project 2" src="https://github.com/user-attachments/assets/7e3b4a15-3457-4157-a58d-81f139bd36af" />
+<img width="1350" height="1080" alt="Untitled Project" src="https://github.com/user-attachments/assets/bf6a8b38-db61-4d69-9433-dd22599e81e3" />
+<img width="1920" height="1080" alt="Untitled Project_0001" src="https://github.com/user-attachments/assets/30d6e6c6-ac31-4ee6-ab66-ea472c649f29" />
+
+
+
 🛠️ Technical Specifications & Features
 1. High-Torque Transmission (RV Reducer)
 The core of the joint mechanism is a custom-modeled RV Reducer.
@@ -31,7 +40,6 @@ Assembly Management: Managing complex sub-assemblies and mechanical mates.
 
 Engineering Analysis: Structural optimization for weight reduction.
 
-📸 3D_Visuals
 
 
 👷 Author
